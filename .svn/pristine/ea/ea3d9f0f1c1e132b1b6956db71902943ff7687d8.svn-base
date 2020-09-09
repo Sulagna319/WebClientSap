@@ -1,0 +1,63 @@
+package stepdef;
+
+import cucumber.api.java.en.And;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+import org.apache.log4j.Logger;
+import pageaction.WebHomePageActions;
+import pageaction.WebViewerPageActions;
+import pagelocators.WebAnnotationPageLocators;
+import util.LoggerHelper;
+
+
+public class WebViewerStepDef {
+
+    public WebHomePageActions webhomepageactions;
+    public WebAnnotationPageLocators webAnnotationPageLocators;
+    public WebViewerPageActions webViewerPageActions;
+
+    Logger log = LoggerHelper.getLogger(WebHomePageStepDef.class);
+
+
+    public WebViewerStepDef() {
+        webViewerPageActions = new WebViewerPageActions();
+        webhomepageactions = new WebHomePageActions();
+    }
+
+    @Then("^User able to see the viewer window of document$")
+    public void user_able_to_see_the_viewer_window_of_document() {
+
+        webViewerPageActions.titleValidationViewer();
+    }
+
+
+    @Then("^Click on \"([^\"]*)\" rotation$")
+    public void click_on_something_rotation(String rotation) {
+        webViewerPageActions.sideRotation(rotation);
+
+    }
+
+    @And("^close file with change$")
+    public void close_file_with_change() throws InterruptedException {
+        webViewerPageActions.closeViewer();
+
+    }
+
+    @Then("^Click on Print$")
+    public void click_on_print() throws Throwable {
+        webViewerPageActions.clickPrint();
+    }
+
+    @Then("^Click on \"([^\"]*)\" option$")
+    public void click_on_something_option(String zoomOption) {
+        webViewerPageActions.zoomOptions(zoomOption);
+    }
+
+    @Then("^Click on \"([^\"]*)\" document option$")
+    public void click_on_something_document_option(String view) {
+        webViewerPageActions.dovViewOptions(view);
+
+    }
+}
+
+

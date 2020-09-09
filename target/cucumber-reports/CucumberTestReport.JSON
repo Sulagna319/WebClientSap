@@ -1,0 +1,276 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "User should Login",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 389217401,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Web Login Page",
+            "match": {
+              "location": "WebLoginStepDef.user_is_on_Web_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2676161401,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User give credentials \"administrator\" and \"qa\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "administrator",
+                  "offset": 23
+                },
+                {
+                  "val": "qa",
+                  "offset": 43
+                }
+              ],
+              "location": "WebLoginStepDef.user_give_credentials_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2255271799,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user select appropriate tenant \"system\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "system",
+                  "offset": 32
+                }
+              ],
+              "location": "WebLoginStepDef.user_select_appropriate_tenant(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 174739199,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on Login Button",
+            "match": {
+              "location": "WebLoginStepDef.user_click_on_Login_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1017961400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User Check for Duplicate Session",
+            "match": {
+              "location": "WebLoginStepDef.user_check_for_duplicate_session()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10643800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User will sign on successfully",
+            "match": {
+              "location": "WebLoginStepDef.user_will_sign_on_successfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 24723474900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setup()"
+            }
+          }
+        ],
+        "line": 134,
+        "name": "Validate the functionality of picture controls in Saperion webClient Viewer",
+        "description": "",
+        "id": "saperion-web-client-viewer-annotations-page-tests;validate-the-functionality-of-picture-controls-in-saperion-webclient-viewer;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1061455400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 85948499,
+              "status": "passed"
+            },
+            "line": 122,
+            "name": "User is on Saperion Web Client Home Page",
+            "match": {
+              "location": "WebHomePageStepDef.user_is_on_Saperion_Web_Client_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 60761700,
+              "status": "passed"
+            },
+            "line": 123,
+            "name": "User should able to see the Application",
+            "match": {
+              "location": "WebHomePageStepDef.user_should_able_to_see_the_Application()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 113826899,
+              "status": "passed"
+            },
+            "line": 124,
+            "name": "User Click on Application",
+            "match": {
+              "location": "WebHomePageStepDef.user_Click_on_application()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2191576100,
+              "status": "passed"
+            },
+            "line": 125,
+            "name": "User click on Result button",
+            "match": {
+              "location": "WebHomePageStepDef.user_click_on_Result_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1472336701,
+              "status": "passed"
+            },
+            "line": 126,
+            "name": "User right Click on the file in resultlist",
+            "match": {
+              "location": "WebHomePageStepDef.User_right_Click_on_the_file_in_resultlist()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4056531301,
+              "status": "passed"
+            },
+            "line": 127,
+            "name": "User click on View button",
+            "match": {
+              "location": "WebHomePageStepDef.user_click_on_view_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3091443600,
+              "status": "passed"
+            },
+            "line": 128,
+            "name": "User able to see the view Document Window",
+            "match": {
+              "location": "WebAnnotationStepDef.User_able_to_see_the_view_Document_Window()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 12330834501,
+              "status": "passed"
+            },
+            "line": 129,
+            "name": "select  \"Gamma\" option",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Gamma",
+                  "offset": 9
+                }
+              ],
+              "location": "WebViewerStepDef.select_something_option(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3135743200,
+              "status": "passed"
+            },
+            "line": 130,
+            "name": "close file with change",
+            "match": {
+              "location": "WebViewerStepDef.close_file_with_change()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3074967099,
+              "status": "passed"
+            },
+            "line": 131,
+            "name": "check for alert",
+            "match": {
+              "location": "WebViewerStepDef.check_for_alert()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 120,
+            "name": "@webViewerPictureControls"
+          }
+        ]
+      }
+    ],
+    "name": "Saperion Web Client Viewer annotations Page Tests",
+    "description": "",
+    "id": "saperion-web-client-viewer-annotations-page-tests",
+    "keyword": "Feature",
+    "uri": "WebViewer.feature"
+  }
+]

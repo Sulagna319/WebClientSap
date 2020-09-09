@@ -1,0 +1,216 @@
+package pageaction;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.NoSuchWindowException;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.testng.Assert;
+import pagelocators.WebViewerPageLocators;
+import stepdef.WebHomePageStepDef;
+import util.LoggerHelper;
+import util.WebDriverHelper;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Set;
+
+public class WebViewerPageActions {
+
+    public WebViewerPageLocators webViewerPageLocators;
+    Logger log= LoggerHelper.getLogger(WebViewerPageActions.class);
+
+
+    public void titleValidationViewer() {
+
+        try {
+
+            Thread.sleep(2000);
+           Set<String> handler = WebDriverHelper.driver.getWindowHandles();
+            Iterator<String> it = handler.iterator();
+            String parentWindow = it.next();
+            //log.info("The parent window handle is "+parentWindow);
+
+            if(it.hasNext()) {
+
+                String childWindow = it.next();
+                //log.info("The child window handle is "+childWindow);
+                WebDriverHelper.driver.switchTo().window(childWindow);
+                Assert.assertEquals("Document view",WebDriverHelper.driver.getTitle());
+
+            }else log.info("No view Tab");
+
+
+        } catch (NoSuchElementException e) {
+            e.printStackTrace();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void sideRotation(String sideRo) {
+
+        webViewerPageLocators = new WebViewerPageLocators();
+        String t = WebDriverHelper.driver.getTitle();
+        log.info("The current page title is "+t);
+        WebDriverHelper.driver.switchTo().frame("pdfjsFrame");
+
+        if(sideRo.equalsIgnoreCase("Right")){
+
+        try {
+            Thread.sleep(2000);
+            webViewerPageLocators.RotateRight.click();
+           // r.click();
+            Thread.sleep(5000);
+            log.info("Document rotated right!!");
+
+        }
+        catch (NoSuchElementException e){
+            e.printStackTrace();
+        }
+        catch (InterruptedException e){
+            e.printStackTrace();
+        }}
+
+        else if (sideRo.equalsIgnoreCase("Left")){
+
+            try {
+                Thread.sleep(2000);
+                //l.click();
+                log.info("Document rotated left!!");
+                Thread.sleep(5000);
+                webViewerPageLocators.RotateLeft.click();
+            }
+            catch (NoSuchElementException e){
+                e.printStackTrace();
+            }
+            catch (InterruptedException e){
+                e.printStackTrace();
+            }}
+
+
+    }
+
+
+    public void closeViewer() throws InterruptedException {
+        WebDriverHelper.driver.switchTo().defaultContent();
+        boolean b = webViewerPageLocators.CloseViewerButton.isDisplayed();
+        if (b == true) {
+            webViewerPageLocators.CloseViewerButton.click();
+            log.info("Closing the viewer tab!!");
+            Thread.sleep(3000);
+
+        }
+        try {
+            WebDriverHelper.driver.switchTo().alert().accept();
+            log.info("Leave viewer tab!!");
+            Thread.sleep(3000);
+        }
+        catch(NoSuchWindowException e){
+
+        }
+    }
+
+    public void clickPrint() {
+
+        webViewerPageLocators = new WebViewerPageLocators();
+        String t = WebDriverHelper.driver.getTitle();
+        log.info("The current page title is "+t);
+        WebDriverHelper.driver.switchTo().frame("pdfjsFrame");
+
+        try
+        {
+            Thread.sleep(2000);
+            webViewerPageLocators.ViewerPrint.click();
+            Thread.sleep(5000);
+            log.info("Print Document!!");
+
+        }
+            catch (NoSuchElementException e){
+            e.printStackTrace();
+        }
+            catch (InterruptedException e){
+            e.printStackTrace();
+        }
+
+    }
+
+    public void zoomOptions(String zo ) {
+
+        webViewerPageLocators = new WebViewerPageLocators();
+        String t = WebDriverHelper.driver.getTitle();
+        log.info("The current page title is "+t);
+        WebDriverHelper.driver.switchTo().frame("pdfjsFrame");
+
+        if(zo.equalsIgnoreCase("Plus")){
+
+            try {
+                Thread.sleep(2000);
+                webViewerPageLocators.ZoomIn.click();
+                webViewerPageLocators.ZoomIn.click();
+                webViewerPageLocators.ZoomIn.click();
+                Thread.sleep(5000);
+                log.info("Document zoomed in!!");
+
+            }
+            catch (NoSuchElementException e){
+                e.printStackTrace();
+            }
+            catch (InterruptedException e){
+                e.printStackTrace();
+            }}
+        else if (zo.equalsIgnoreCase("Minus")){
+
+            try {
+                Thread.sleep(2000);
+                webViewerPageLocators.ZoomOut.click();
+                webViewerPageLocators.ZoomOut.click();
+                webViewerPageLocators.ZoomOut.click();
+                Thread.sleep(5000);
+                log.info("Document zoomed out!!");
+
+            }
+            catch (NoSuchElementException e){
+                e.printStackTrace();
+            }
+            catch (InterruptedException e){
+                e.printStackTrace();
+            }}
+
+
+        else if (zo.equalsIgnoreCase("RubberBand")){
+
+            try {
+                Thread.sleep(2000);
+                webViewerPageLocators.RubberbandZoom.click();
+                Thread.sleep(2000);
+                Actions a = new Actions(WebDriverHelper.driver);
+                a.moveToElement(webViewerPageLocators.ZoomPageViewer).clickAndHold().moveByOffset(20,70).release().build().perform();
+                Thread.sleep(5000);
+                log.info("RubberBand zoomed document!!");
+
+            }
+            catch (NoSuchElementException e){
+                e.printStackTrace();
+            }
+            catch (InterruptedException e){
+                e.printStackTrace();
+            }}
+        else if (zo.equalsIgnoreCase("MagnifingGlass")){
+
+            try {
+                Thread.sleep(2000);
+                webViewerPageLocators.MagnifyZoom.click();
+                Thread.sleep(5000);
+                log.info("Magnifing document!!");
+
+            }
+            catch (NoSuchElementException e){
+                e.printStackTrace();
+            }
+            catch (InterruptedException e){
+                e.printStackTrace();
+            }}
+        else log.info("Wrong option selected!!");
+    }
+}

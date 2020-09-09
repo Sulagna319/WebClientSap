@@ -1,0 +1,142 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 55203127700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setup()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Validate the login functionality of Saperion Web Client",
+        "description": "",
+        "id": "saperion-web-client-login-page-tests;validate-the-login-functionality-of-saperion-web-client",
+        "after": [
+          {
+            "result": {
+              "duration": 875947500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 269233800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is on Web Login Page",
+            "match": {
+              "location": "WebLoginStepDef.user_is_on_Web_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2329316500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User give credentials \"administrator\" and \"qa\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "administrator",
+                  "offset": 23
+                },
+                {
+                  "val": "qa",
+                  "offset": 43
+                }
+              ],
+              "location": "WebLoginStepDef.user_give_credentials_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2099948900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user select appropriate tenant \"system\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "system",
+                  "offset": 32
+                }
+              ],
+              "location": "WebLoginStepDef.user_select_appropriate_tenant(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 71291300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User click on Login Button",
+            "match": {
+              "location": "WebLoginStepDef.user_click_on_Login_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1099472300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User Check for Duplicate Session",
+            "match": {
+              "location": "WebLoginStepDef.user_check_for_duplicate_session()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11819600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User will sign on successfully",
+            "match": {
+              "location": "WebLoginStepDef.user_will_sign_on_successfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@WebloginFeature"
+          },
+          {
+            "line": 4,
+            "name": "@weblogin"
+          }
+        ]
+      }
+    ],
+    "name": "Saperion Web Client Login Page Tests",
+    "description": "",
+    "id": "saperion-web-client-login-page-tests",
+    "keyword": "Feature",
+    "uri": "WebLogin.feature"
+  }
+]

@@ -1,0 +1,100 @@
+package stepdef;
+
+import cucumber.api.java.en.And;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+import org.apache.log4j.Logger;
+import pageaction.WebAnnotationPageActions;
+import pageaction.WebHomePageActions;
+import pageaction.WebViewerPageActions;
+import pagelocators.WebAnnotationPageLocators;
+import pagelocators.WebHomePageLocators;
+import util.LoggerHelper;
+import util.WebDriverHelper;
+
+import java.util.NoSuchElementException;
+
+public class WebViewerStepDef {
+
+    public WebHomePageActions webhomepageactions;
+    public WebAnnotationPageLocators webAnnotationPageLocators;
+    public WebViewerPageActions webViewerPageActions;
+
+    Logger log = LoggerHelper.getLogger(WebHomePageStepDef.class);
+
+
+    public WebViewerStepDef() {
+        webViewerPageActions = new WebViewerPageActions();
+        webhomepageactions = new WebHomePageActions();
+        //WebHomePageLocators homepagelocators = new WebHomePageLocators();
+    }
+
+    @Then("^User able to see the viewer window of document$")
+    public void user_able_to_see_the_viewer_window_of_document() {
+
+        webViewerPageActions.titleValidationViewer();
+    }
+
+    @When("^User finds application and clicks on it$")
+    public void user_finds_application_and_clicks_on_it() {
+
+        webhomepageactions.ddcValidation();
+        log.info("Check the DDC");
+        webhomepageactions.applicationClick();
+        log.info("Click on DDC");
+
+    }
+
+    @Then("^User click on Result button and context clicks on file$")
+    public void user_click_on_result_button_and_context_clicks_on_file() throws InterruptedException {
+
+        try {
+            webhomepageactions.clickResultButton();
+            log.info("Click on Result button");
+        } catch (NoSuchElementException e) {
+            System.out.println("Element not found:");
+        }
+
+        webhomepageactions.contextClickFile();
+        log.info("Context click on file ");
+        Thread.sleep(5000);
+    }
+
+    @And("^User clicks on view button and lands on Viewer window$")
+    public void user_clicks_on_view_button_and_lands_on_viewer_window() throws InterruptedException {
+        webhomepageactions.viewClick();
+        log.info("Click View ");
+        webViewerPageActions.titleValidationViewer();
+        log.info("New Tab opened and title being validated");
+    }
+
+    @Then("^Click on \"([^\"]*)\" rotation$")
+    public void click_on_something_rotation(String ro) {
+        webViewerPageActions.sideRotation(ro);
+
+    }
+
+    @And("^close file with change$")
+    public void close_file_with_change() throws InterruptedException {
+        webViewerPageActions.closeViewer();
+
+    }
+
+    @Then("^Click on Print$")
+    public void click_on_print() throws Throwable {
+        webViewerPageActions.clickPrint();
+    }
+
+    @Then("^Click on \"([^\"]*)\" option$")
+    public void click_on_something_option(String op) {
+        webViewerPageActions.zoomOptions(op);
+    }
+
+    @Then("^Click on \"([^\"]*)\" document option$")
+    public void click_on_something_document_option(String view) {
+        webViewerPageActions.dovViewOptions(view);
+
+    }
+}
+
+

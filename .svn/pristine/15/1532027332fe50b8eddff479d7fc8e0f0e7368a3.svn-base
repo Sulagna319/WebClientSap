@@ -1,0 +1,25 @@
+package pagelocators;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.PageFactory;
+import util.WebDriverHelper;
+
+public class WebViewerPageLocators extends WebDriverHelper {
+
+    public WebViewerPageLocators(){
+        PageFactory.initElements(driver,this);
+    }
+
+
+    @FindBy(how = How.XPATH, using = "//span[@data-title='Rotate Right']")
+    public WebElement RotateRight;
+
+    @FindBy(how = How.XPATH, using = "//span[@data-title='Rotate Left']")
+    public WebElement RotateLeft;
+
+    @FindBy(how = How.XPATH, using = "/html/body/div[3]/div/form/input")
+    public WebElement CloseViewerButton;
+
+}

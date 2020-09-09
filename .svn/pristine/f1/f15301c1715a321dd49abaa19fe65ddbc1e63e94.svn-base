@@ -1,0 +1,79 @@
+Feature: Web Client Annotation Tests
+
+  Background: User should Login
+    Given User is on Web Login Page
+    When User give credentials "administrator" and "qa"
+    And user select appropriate tenant "system"
+    And User click on Login Button
+    And User Check for Duplicate Session
+    Then User will sign on successfully
+
+
+  @EditAnnotationsButtonDisplay
+  Scenario: Validate the Edit Annotations button is Displayed
+    Given User is on Saperion Web Client Home Page
+    When User Click on Application
+    And User click on Result button
+    When User right Click on the file in resultlist
+    Then User is able to see the Edit Annotations button
+
+  @ViewDocumentWindowDisplay
+  Scenario: Validate the Annotation window Displayed Successfully
+    Given User is on Saperion Web Client Home Page
+    When User Click on Application
+    And User click on Result button
+    When User right Click on the file in resultlist
+    And User click on Edit Annotations button
+    Then User able to see the view Document Window
+
+  @Annotationsbuttondisplayed
+  Scenario Outline: Validate the all Annotations Button Working fine
+    Given User is on Saperion Web Client Home Page
+    When User Click on Application
+    And User click on Result button
+    When User right Click on the file in resultlist
+    And User click on Edit Annotations button
+    And User able to see the view Document Window
+    Then User is able to see all the annotations button "<buttonname>"
+    And User Close the annotation window
+    Examples:
+      |buttonname|
+      |stickyNote|
+
+
+  @ViewDocumentWindowDisplay
+  Scenario Outline: Validate the Edit Anootations is working fine
+    Given User is on Saperion Web Client Home Page
+    When User Click on Application
+    And User click on Result button
+    When User right Click on the file in resultlist
+    And User click on Edit Annotations button
+    Then User able to see the view Document Window
+    Then User is able to see all the annotations button "<buttonname>"
+    Examples:
+      |buttonname|
+      |stickynote|
+      |Arrow|
+      |highLight|
+
+    ####sulagna####
+   @SticyNoteAttachToDoc
+  Scenario: Validate the sticky note is attached in document on viewer
+    Given User is on Saperion Web Client Home Page
+    Then User should able to see the Application
+    When User Click on Application
+    And User click on Result button
+    When User right Click on the file in resultlist
+    Then User click on Edit Annotations button
+    Then User able to see the view Document Window
+    Then User applies annotation in document
+    And saves annotation applied
+    And save and close document window
+
+
+    ####sulagna####
+
+
+
+
+

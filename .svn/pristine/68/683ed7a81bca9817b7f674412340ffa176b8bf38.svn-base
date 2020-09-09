@@ -1,0 +1,34 @@
+Feature: Saperion Web Client Viewer annotations Page Tests
+
+  Background: User should Login
+    Given User is on Web Login Page
+    When User give credentials "administrator" and "qa"
+    And user select appropriate tenant "system"
+    And User click on Login Button
+    And User Check for Duplicate Session
+    Then User will sign on successfully
+
+  @webViewer
+  Scenario: Validate the document is viewable in Saperion Web Client
+    Given User is on Saperion Web Client Home Page
+    Then User should able to see the Application
+    When User Click on Application
+    And User click on Result button
+    When User right Click on the file in resultlist
+    And User click on View button
+    Then User able to see the viewer window of document
+
+
+  @webViewerRotation
+  Scenario Outline: Validate the functionality of rotation in Saperion webClient Viewer
+    Given User is on Saperion Web Client Home Page
+    When User finds application and clicks on it
+    Then User click on Result button and context clicks on file
+    And User clicks on view button and lands on Viewer window
+   Then Click on "<side>" rotation
+    And close file with change
+    Examples:
+      | side |
+      | Right|
+      | Left |
+

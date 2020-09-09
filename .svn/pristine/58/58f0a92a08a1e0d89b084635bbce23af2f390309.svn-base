@@ -1,0 +1,43 @@
+package pagelocators;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.PageFactory;
+import util.WebDriverHelper;
+
+public class WebViewerPageLocators extends WebDriverHelper {
+
+    public WebViewerPageLocators(){
+        PageFactory.initElements(driver,this);
+    }
+
+    //sulagna
+    @FindBy(how = How.XPATH, using = "//span[@data-title='Rotate Right']")
+    public WebElement RotateRight;
+
+    @FindBy(how = How.XPATH, using = "//span[@data-title='Rotate Left']")
+    public WebElement RotateLeft;
+
+    @FindBy(how = How.XPATH, using = "//span[@data-title='Zoom In']")
+    public WebElement ZoomIn;
+
+    @FindBy(how = How.XPATH, using = "//span[@data-title='Zoom Out']")
+    public WebElement ZoomOut;
+
+    @FindBy(how = How.XPATH, using = "//span[@data-title='Rubberband Zoom']")
+    public WebElement RubberbandZoom;
+
+    @FindBy(how = How.XPATH, using = "//span[@data-title='Magnifier']")
+    public WebElement MagnifyZoom;
+
+    @FindBy(how = How.XPATH, using = "//span[@data-title='Print']")
+    public WebElement ViewerPrint;
+
+    @FindBy(how = How.ID, using = "vvDummyScroller")
+    public WebElement ZoomPageViewer;
+
+    @FindBy(how = How.XPATH, using = "/html/body/div[3]/div/form/input")
+    public WebElement CloseViewerButton;
+
+}

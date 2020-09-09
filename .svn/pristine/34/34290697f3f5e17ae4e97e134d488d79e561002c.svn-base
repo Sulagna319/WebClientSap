@@ -1,0 +1,754 @@
+2020-03-22 18:14:25,142  INFO [main] WebLoginStepDef:30 - Opening the Client
+2020-03-22 18:14:56,065  INFO [main] WebLoginStepDef:30 - Opening the Client
+2020-03-22 20:02:42,360  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-22 20:03:10,705  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-22 20:10:15,323  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-22 20:10:17,524  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-22 20:10:19,594  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-22 20:10:19,656  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-22 20:10:21,497  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 13:48:12,022  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 13:48:12,051  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 13:48:12,074  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 13:48:12,098  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 13:48:12,118  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 13:49:43,307  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 13:49:45,533  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 13:49:47,624  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 13:49:47,683  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 13:49:48,149  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 13:49:49,506  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 13:52:10,242  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 13:52:12,513  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 13:52:14,612  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 13:52:14,680  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 13:52:15,432  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 13:52:16,809  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 13:52:16,869  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 13:52:16,958  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 13:54:02,344  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 13:54:04,603  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 13:54:06,673  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 13:54:06,736  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 13:54:07,339  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 13:54:08,698  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 13:54:08,740  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 13:54:08,809  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 14:05:41,032  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:05:43,267  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:05:45,340  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:05:45,404  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:05:46,131  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 14:05:47,497  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 14:05:47,542  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 14:05:47,611  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 14:06:24,019  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:06:26,277  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:06:28,349  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:06:28,408  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:06:28,822  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 14:06:30,152  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 14:06:30,185  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 14:06:30,242  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 14:08:46,848  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:08:49,113  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:08:51,193  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:08:51,254  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:08:51,770  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 14:08:53,108  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 14:08:53,141  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 14:08:53,195  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 14:13:36,476  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:13:38,682  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:13:40,773  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:13:40,837  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:14:21,155  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:14:23,421  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:14:25,509  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:14:25,572  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:14:26,179  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 14:14:27,538  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 14:14:27,578  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 14:14:27,646  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 14:14:52,312  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:14:54,574  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:14:56,654  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:14:56,717  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:14:57,140  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 14:14:58,464  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 14:14:58,499  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 14:14:58,553  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 14:26:13,825  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:26:16,000  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:26:18,077  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:26:18,146  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:26:52,317  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:26:54,557  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:26:56,630  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:26:56,690  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:26:57,351  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 14:26:58,714  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 14:26:58,754  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 14:26:58,824  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 14:27:42,060  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:27:44,310  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:27:46,385  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:27:46,447  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:27:47,046  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 14:27:48,404  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 14:27:48,446  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 14:27:48,515  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 14:32:20,936  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:32:23,151  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:32:25,225  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:32:25,287  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:32:25,773  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 14:32:27,120  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 14:32:27,154  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 14:32:27,211  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 14:39:24,810  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:39:27,090  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:39:29,173  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:39:29,243  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:39:29,940  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 14:39:31,294  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 14:39:31,338  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 14:39:31,407  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 14:40:08,531  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:40:10,790  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:40:12,863  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:40:12,934  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:40:13,567  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 14:40:14,941  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 14:40:14,985  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 14:40:15,053  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 14:46:53,877  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:46:56,131  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:46:58,204  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:46:58,271  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:46:58,767  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 14:47:00,138  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 14:47:00,182  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 14:47:00,257  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 14:50:11,745  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 14:50:14,021  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 14:50:16,098  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 14:50:16,160  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 14:50:16,671  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 14:50:18,008  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 14:50:18,043  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 14:50:18,098  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 15:32:31,217  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 15:32:33,535  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 15:32:35,630  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 15:32:35,703  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 15:33:03,142  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 15:33:05,417  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 15:33:07,514  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 15:33:07,582  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 15:33:08,084  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 15:33:09,483  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 15:33:09,526  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 15:33:09,598  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 15:37:11,816  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 15:37:14,079  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 15:37:16,175  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 15:37:16,235  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 15:37:16,754  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 15:37:16,762  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 15:37:16,808  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 15:37:16,879  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-23 15:38:29,539  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-23 15:38:31,821  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-23 15:38:33,923  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-23 15:38:33,988  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-23 15:38:34,513  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-23 15:38:34,522  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-23 15:38:34,573  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-23 15:38:34,648  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-25 17:12:24,571  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-25 17:12:26,844  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-25 17:12:28,938  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-25 17:12:29,000  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-25 17:13:12,634  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-25 17:13:14,932  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-25 17:13:17,033  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-25 17:13:17,093  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-25 17:13:18,081  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-25 17:13:18,098  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-25 17:13:18,176  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-25 17:13:18,273  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-27 16:13:33,551  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-27 16:13:33,576  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-27 16:13:33,595  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-27 16:13:33,614  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-27 16:13:33,628  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-27 16:20:31,228  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-27 16:20:33,464  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-27 16:20:35,541  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-27 16:20:35,597  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-27 16:21:00,544  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-27 16:21:02,788  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-27 16:21:04,870  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-27 16:21:04,932  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-27 16:21:05,688  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-27 16:21:05,696  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-27 16:21:05,736  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-27 16:21:05,808  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-03-27 16:30:08,500  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-03-27 16:30:10,696  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-03-27 16:30:12,772  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-03-27 16:30:12,833  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-03-27 16:30:13,517  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-03-27 16:30:13,524  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-03-27 16:30:13,565  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-03-27 16:30:13,637  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 14:14:24,964  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 14:14:27,263  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 14:14:29,366  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 14:14:29,438  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 14:14:30,726  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 14:14:30,739  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 14:14:30,814  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 14:14:30,930  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 14:15:19,440  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 14:15:21,748  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 14:15:23,877  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 14:15:23,948  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 14:15:24,781  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 14:15:24,795  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 14:15:24,857  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 14:15:24,971  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 14:16:57,616  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 14:16:59,938  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 14:17:02,047  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 14:17:02,124  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 14:17:03,067  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 14:17:03,077  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 14:17:03,138  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 14:17:03,234  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 14:18:42,734  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 14:18:44,956  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 14:18:47,033  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 14:18:47,102  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 14:18:47,886  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 14:18:47,897  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 14:18:47,959  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 14:18:48,050  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 14:57:16,145  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 14:57:18,784  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 14:57:20,888  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 14:57:20,969  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 14:58:01,546  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 14:58:03,974  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 14:58:06,133  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 14:58:06,228  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 14:58:08,111  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 14:58:08,122  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 14:58:08,182  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 14:58:08,302  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 15:30:41,650  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 15:30:44,026  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 15:30:46,135  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 15:30:46,211  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 15:31:29,263  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 15:31:31,601  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 15:31:33,708  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 15:31:33,777  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 15:31:34,774  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 15:31:34,783  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 15:31:34,840  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 15:31:34,926  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 15:35:13,347  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 15:35:15,650  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 15:35:17,762  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 15:35:17,841  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 15:35:19,296  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 15:35:19,311  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 15:35:19,387  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 15:35:19,509  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 15:42:58,269  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 15:43:00,631  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 15:43:02,754  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 15:43:02,840  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 15:43:04,947  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 15:43:04,962  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 15:43:05,035  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 15:43:05,134  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 15:44:06,307  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 15:44:08,891  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 15:44:11,085  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 15:44:11,237  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 15:44:16,532  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 15:44:16,547  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 15:44:16,625  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 15:44:16,727  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 15:57:19,706  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 15:57:22,048  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 15:57:24,161  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 15:57:24,242  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 15:57:26,040  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 15:57:26,052  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 15:57:26,119  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 15:57:26,213  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 15:59:09,083  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 15:59:11,384  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 15:59:13,506  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 15:59:13,598  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 15:59:14,995  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 15:59:15,012  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 15:59:15,087  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 15:59:15,204  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 16:00:25,207  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 16:00:27,546  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 16:00:29,661  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 16:00:29,760  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 16:00:30,794  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 16:00:30,808  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 16:00:30,876  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 16:00:30,971  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 16:01:54,121  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 16:01:56,413  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 16:01:58,549  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 16:01:58,639  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 16:01:59,838  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 16:01:59,848  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 16:01:59,906  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 16:02:00,012  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 16:03:58,925  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 16:04:01,281  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 16:04:03,409  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 16:04:03,494  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 16:04:04,894  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 16:04:04,908  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 16:04:04,972  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 16:04:05,060  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 16:09:23,997  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 16:09:26,358  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 16:09:28,487  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 16:09:28,585  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 16:09:30,249  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 16:09:30,262  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 16:09:30,332  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 16:09:30,454  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 16:13:20,739  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 16:13:23,115  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 16:13:25,248  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 16:13:25,343  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 16:13:27,765  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 16:13:27,779  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 16:13:27,846  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 16:13:27,938  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 16:32:37,282  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 16:32:39,606  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 16:32:41,725  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 16:32:41,811  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 16:32:42,758  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 16:32:42,771  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 16:32:42,840  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 16:32:42,930  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 16:45:10,484  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 16:45:12,758  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 16:45:14,835  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 16:45:14,895  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 16:45:15,465  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 16:45:15,473  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 16:45:15,515  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 16:45:15,584  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 16:58:04,075  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 16:58:06,372  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 16:58:08,472  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 16:58:08,539  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 16:58:09,183  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 16:58:09,193  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 16:58:09,246  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 16:58:09,324  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 17:01:39,426  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 17:01:41,750  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 17:01:43,864  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 17:01:43,936  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 17:01:44,654  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 17:01:44,663  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 17:01:44,719  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 17:01:44,803  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 17:02:51,641  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 17:02:53,927  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 17:02:56,034  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 17:02:56,094  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 17:02:56,680  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 17:02:56,691  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 17:02:56,744  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 17:02:56,818  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 17:04:24,695  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 17:04:27,007  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 17:04:29,109  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 17:04:29,179  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 17:04:29,785  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 17:04:29,795  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 17:04:29,847  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 17:04:29,928  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 17:05:22,440  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 17:05:24,768  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 17:05:26,878  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 17:05:26,947  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 17:05:27,612  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 17:05:27,624  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 17:05:27,681  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 17:05:27,763  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 17:18:21,790  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 17:18:24,070  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 17:18:26,171  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 17:18:26,244  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 17:19:36,021  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 17:19:38,322  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 17:19:40,414  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 17:19:40,487  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 17:19:41,095  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 17:19:41,105  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 17:19:41,166  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 17:19:41,249  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 18:11:21,668  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 18:11:23,944  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 18:11:26,054  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 18:11:26,127  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 18:11:26,961  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 18:11:26,975  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 18:11:27,060  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 18:11:27,176  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 18:13:18,275  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 18:13:20,584  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 18:13:22,707  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 18:13:22,776  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 18:13:23,409  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 18:13:23,427  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 18:13:23,490  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 18:13:23,577  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 19:25:31,142  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 19:25:33,476  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 19:25:35,579  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 19:25:35,697  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 19:25:37,288  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 19:25:37,311  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 19:25:37,412  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 19:25:37,601  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 19:45:02,407  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 19:45:04,769  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 19:45:06,892  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 19:45:06,966  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 19:45:10,802  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 19:45:10,823  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 19:45:11,014  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 19:45:11,434  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 20:02:06,335  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 20:02:08,713  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 20:02:10,839  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 20:02:10,933  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 20:02:13,321  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 20:02:13,340  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 20:02:13,466  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 20:02:13,680  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 20:16:20,918  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 20:16:23,338  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 20:16:25,535  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 20:16:25,611  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 20:17:16,580  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 20:17:18,898  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 20:17:21,007  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 20:17:21,095  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 20:17:21,970  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 20:17:21,983  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 20:17:22,055  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 20:17:22,160  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 20:19:45,036  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 20:19:47,381  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 20:19:49,531  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 20:19:49,620  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 20:19:50,952  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 20:19:50,968  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 20:19:51,048  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 20:19:51,143  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 20:26:07,560  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 20:26:09,902  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 20:26:12,012  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 20:26:12,105  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 20:26:14,286  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 20:26:14,300  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 20:26:14,377  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 20:26:14,487  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 20:29:50,983  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 20:29:53,305  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 20:29:55,444  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 20:29:55,515  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 20:29:56,725  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 20:29:56,737  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 20:29:56,804  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 20:29:56,881  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-03 20:30:57,671  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-03 20:30:59,963  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-03 20:31:02,055  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-03 20:31:02,115  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-03 20:31:02,689  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-03 20:31:02,696  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-03 20:31:02,736  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-03 20:31:02,809  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 14:31:41,995  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 14:31:44,326  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 14:31:46,461  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 14:31:46,534  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 14:32:28,181  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 14:32:30,456  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 14:32:32,530  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 14:32:32,590  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 14:32:33,325  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 14:32:33,335  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 14:32:33,455  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 14:32:33,515  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 17:10:22,177  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 17:10:24,382  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 17:10:26,530  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 17:10:26,622  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 17:11:30,217  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 17:11:32,489  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 17:11:34,595  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 17:11:34,666  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 17:11:35,295  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 17:11:35,306  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 17:11:35,364  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 17:11:35,444  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 17:13:39,275  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 17:13:41,558  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 17:13:43,665  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 17:13:43,727  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 17:13:44,302  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 17:13:44,312  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 17:13:44,369  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 17:13:44,454  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 17:16:56,982  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 17:16:59,256  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 17:17:01,352  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 17:17:01,426  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 17:17:02,245  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 17:17:02,258  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 17:17:02,327  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 17:17:02,422  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 17:23:17,373  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 17:23:19,924  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 17:23:22,028  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 17:23:22,087  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 17:23:22,696  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 17:23:22,706  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 17:23:22,757  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 17:23:22,835  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 17:48:24,848  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 17:48:27,043  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 17:48:29,120  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 17:48:29,187  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 17:49:16,459  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 17:49:18,689  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 17:49:20,778  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 17:49:20,839  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 17:49:21,429  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 17:49:21,439  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 17:49:21,487  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 17:49:21,560  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 17:51:55,431  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 17:51:57,607  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 17:51:59,678  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 17:51:59,740  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 17:52:00,487  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 17:52:00,493  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 17:52:00,553  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 17:52:00,606  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 17:53:29,191  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 17:53:31,452  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 17:53:33,527  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 17:53:33,586  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 17:53:34,158  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 17:53:34,165  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 17:53:34,203  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 17:53:34,261  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 17:56:07,619  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 17:56:09,824  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 17:56:11,922  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 17:56:11,985  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 17:56:12,555  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 17:56:12,563  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 17:56:12,627  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 17:56:12,692  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 17:56:42,031  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 17:56:44,404  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 17:56:46,478  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 17:56:46,550  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 17:56:47,100  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 17:56:47,106  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 17:56:47,183  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 17:56:47,250  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 17:57:12,907  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 17:57:15,221  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 17:57:17,304  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 17:57:17,360  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 17:57:18,385  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 17:57:18,392  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 17:57:18,612  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 17:57:18,694  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 18:02:13,114  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 18:02:15,290  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 18:02:17,414  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 18:02:17,495  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 18:02:18,140  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 18:02:18,146  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 18:02:18,251  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 18:02:18,302  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 19:27:45,159  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 19:27:47,348  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 19:27:49,421  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 19:27:49,481  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 19:28:22,138  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 19:28:24,472  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 19:28:26,638  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 19:28:26,712  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 19:28:27,281  INFO [main] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 19:28:27,287  INFO [main] WebLoginStepDef:62 - Login Successfully
+2020-04-06 19:28:27,325  INFO [main] WebHomePageStepDef:28 - Validate the homepage
+2020-04-06 19:28:27,399  INFO [main] WebHomePageStepDef:42 - Click on DDC
+2020-04-06 21:29:11,092  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-04-06 21:29:13,398  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 21:29:15,483  INFO [TestNG] WebLoginStepDef:40 - Entering tenant
+2020-04-06 21:29:15,552  INFO [TestNG] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 21:30:03,812  INFO [TestNG] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 21:30:28,589  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-04-06 21:30:30,954  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 21:30:33,056  INFO [TestNG] WebLoginStepDef:40 - Entering tenant
+2020-04-06 21:30:33,126  INFO [TestNG] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 21:32:56,963  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 21:32:59,197  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 21:33:01,292  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 21:33:01,361  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 21:35:27,660  INFO [TestNG] WebLoginStepDef:75 - Click on Yes button on Duplicate Session
+2020-04-06 21:36:16,467  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 21:36:18,702  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 21:36:20,794  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 21:36:20,862  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 21:36:21,028  INFO [main] WebLoginStepDef:87 - Wrong Credentials
+2020-04-06 21:36:29,628  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 21:36:31,800  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 21:36:33,894  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 21:36:33,964  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 21:36:34,113  INFO [main] WebLoginStepDef:87 - Wrong Credentials
+2020-04-06 21:36:42,451  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-04-06 21:36:44,680  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 21:36:46,769  INFO [main] WebLoginStepDef:40 - Entering tenant
+2020-04-06 21:36:46,833  INFO [main] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 21:36:46,931  INFO [main] WebLoginStepDef:87 - Wrong Credentials
+2020-04-06 21:38:00,789  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-04-06 21:38:03,114  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 21:38:05,228  INFO [TestNG] WebLoginStepDef:40 - Entering tenant
+2020-04-06 21:38:05,297  INFO [TestNG] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 21:38:05,449  INFO [TestNG] WebLoginStepDef:87 - Wrong Credentials
+2020-04-06 21:38:12,457  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-04-06 21:38:14,689  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 21:38:16,795  INFO [TestNG] WebLoginStepDef:40 - Entering tenant
+2020-04-06 21:38:16,866  INFO [TestNG] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 21:38:17,028  INFO [TestNG] WebLoginStepDef:87 - Wrong Credentials
+2020-04-06 21:38:24,603  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-04-06 21:38:26,904  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-04-06 21:38:28,990  INFO [TestNG] WebLoginStepDef:40 - Entering tenant
+2020-04-06 21:38:29,056  INFO [TestNG] WebLoginStepDef:55 - Clicking on Login button
+2020-04-06 21:38:29,262  INFO [TestNG] WebLoginStepDef:87 - Wrong Credentials
+2020-05-13 20:04:41,342  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-05-13 20:04:41,370  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-05-13 20:04:41,393  INFO [main] WebLoginStepDef:41 - Entering tenant
+2020-05-13 20:04:41,415  INFO [main] WebLoginStepDef:56 - Clicking on Login button
+2020-05-13 20:06:05,776  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-05-13 20:06:08,112  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-05-13 20:06:10,184  INFO [main] WebLoginStepDef:41 - Entering tenant
+2020-05-13 20:06:10,238  INFO [main] WebLoginStepDef:56 - Clicking on Login button
+2020-05-13 21:33:22,878  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-05-13 21:33:22,919  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-05-13 21:33:25,214  INFO [main] WebLoginStepDef:41 - Entering tenant
+2020-05-13 21:33:25,302  INFO [main] WebLoginStepDef:56 - Clicking on Login button
+2020-05-13 21:34:44,148  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-05-13 21:34:46,523  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-05-13 21:34:48,618  INFO [main] WebLoginStepDef:41 - Entering tenant
+2020-05-13 21:34:48,677  INFO [main] WebLoginStepDef:56 - Clicking on Login button
+2020-05-13 21:36:20,720  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-05-13 21:36:23,096  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-05-13 21:36:25,183  INFO [main] WebLoginStepDef:41 - Entering tenant
+2020-05-13 21:36:25,242  INFO [main] WebLoginStepDef:56 - Clicking on Login button
+2020-05-13 21:37:18,087  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-05-13 21:37:20,472  INFO [main] WebLoginStepDef:33 - Entering Username and Password
+2020-05-13 21:37:22,554  INFO [main] WebLoginStepDef:41 - Entering tenant
+2020-05-13 21:37:22,618  INFO [main] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 20:33:57,980  INFO [main] WebLoginStepDef:26 - Opening the Client
+2020-05-14 20:34:00,315  INFO [main] WebLoginStepDef:41 - Entering tenant
+2020-05-14 20:34:00,383  INFO [main] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 21:00:36,892  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 21:00:39,150  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-05-14 21:00:41,245  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 21:00:41,315  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 21:00:42,576  INFO [TestNG] WebLoginStepDef:76 - Click on Yes button on Duplicate Session
+2020-05-14 21:00:42,586  INFO [TestNG] WebLoginStepDef:63 - Login Successfully
+2020-05-14 21:01:06,597  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 21:01:08,845  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-05-14 21:01:10,933  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 21:01:11,005  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 21:01:11,486  INFO [TestNG] WebLoginStepDef:88 - Wrong Credentials
+2020-05-14 21:01:33,781  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 21:01:35,968  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-05-14 21:01:38,062  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 21:01:38,140  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 21:01:38,754  INFO [TestNG] WebLoginStepDef:88 - Wrong Credentials
+2020-05-14 21:02:20,060  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 21:02:22,302  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-05-14 21:02:24,382  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 21:02:24,450  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 21:02:25,159  INFO [TestNG] WebLoginStepDef:88 - Wrong Credentials
+2020-05-14 21:03:08,465  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 21:03:10,724  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-05-14 21:03:12,814  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 21:03:12,893  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 21:03:58,975  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 21:04:01,307  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 21:04:01,373  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 21:04:16,393  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 21:04:18,654  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-05-14 21:04:20,745  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 21:04:20,810  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 21:04:46,608  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 21:04:48,851  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-05-14 21:04:50,938  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 21:04:51,003  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 21:04:52,396  INFO [TestNG] WebLoginStepDef:69 - Validate the Duplicate Session
+2020-05-14 21:05:38,289  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 21:05:40,535  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-05-14 21:05:42,622  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 21:05:43,763  INFO [TestNG] WebLoginStepDef:48 - Selecting User Role
+2020-05-14 21:05:43,845  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 21:05:44,790  INFO [TestNG] WebLoginStepDef:76 - Click on Yes button on Duplicate Session
+2020-05-14 21:05:50,773  INFO [TestNG] WebLoginStepDef:82 - Login Successfully
+2020-05-14 21:06:13,088  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 21:06:15,332  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-05-14 21:06:17,423  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 21:06:18,570  INFO [TestNG] WebLoginStepDef:48 - Selecting User Role
+2020-05-14 21:06:18,641  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 21:06:19,737  INFO [TestNG] WebLoginStepDef:76 - Click on Yes button on Duplicate Session
+2020-05-14 21:06:22,875  INFO [TestNG] WebLoginStepDef:82 - Login Successfully
+2020-05-14 21:06:56,488  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 21:06:58,734  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-05-14 21:07:00,827  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 21:07:01,967  INFO [TestNG] WebLoginStepDef:48 - Selecting User Role
+2020-05-14 21:07:02,053  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 21:07:02,880  INFO [TestNG] WebLoginStepDef:76 - Click on Yes button on Duplicate Session
+2020-05-14 21:07:06,017  INFO [TestNG] WebLoginStepDef:82 - Login Successfully
+2020-05-14 21:07:07,393  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 22:09:52,814  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 22:09:55,098  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-05-14 22:09:57,205  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 22:09:57,275  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 22:10:27,931  INFO [TestNG] WebLoginStepDef:76 - Click on Yes button on Duplicate Session
+2020-05-14 22:13:22,410  INFO [TestNG] WebLoginStepDef:26 - Opening the Client
+2020-05-14 22:13:24,744  INFO [TestNG] WebLoginStepDef:33 - Entering Username and Password
+2020-05-14 22:13:26,845  INFO [TestNG] WebLoginStepDef:41 - Entering tenant
+2020-05-14 22:13:26,918  INFO [TestNG] WebLoginStepDef:56 - Clicking on Login button
+2020-05-14 22:13:28,018  INFO [TestNG] WebLoginStepDef:76 - Click on Yes button on Duplicate Session
+2020-05-14 22:13:28,031  INFO [TestNG] WebLoginStepDef:63 - Login Successfully
